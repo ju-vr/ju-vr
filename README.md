@@ -1,5 +1,5 @@
 # Quem sou eu?
-Meu nome e **Juliana Vaini**, sou uma estudante do ensino medido ,
+Meu nome e **Juliana Vaini**, sou uma estudante do ensino medio ,
 gosto de sair ,sou escorpiana, nasci dia 28 de outubro de 2008 . 
 No momento estou estudando no Sesi e no Senai, faço curso de <ins>desenvolvimento de sistemas<ins>.
 
